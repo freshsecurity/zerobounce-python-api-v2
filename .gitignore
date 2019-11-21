@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+.cache/
+develop-eggs/
+
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.zip
+
+# Detritus
+.DS_Store
+venv/
+scratch_pad
+.coverage
+.pytest_cache/
+
+# Security
+security_creds.py
+security_creds.backup.py
