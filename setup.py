@@ -19,7 +19,7 @@ setup(
     download_url='https://github.com/freshsecurity/zerobounce-python-api/dist/0.1.5.tar.gz', # I'll explain this in a second
     packages=find_packages(),
     install_requires=[
-        'requests==2.21.0',
+        'requests',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
